@@ -1,6 +1,6 @@
-#Olá, esse reposiório é referente ao curso de HTML Web Developer da Digital Innovation One
+# Olá, esse reposiório é referente ao curso de HTML Web Developer da Digital Innovation One
 
-##Esse é o repositório da nossa aula de Recriando a Interface do NetFlix! 
+## Esse é o repositório da nossa aula de Recriando a Interface do NetFlix! 
 
 ## Onde os requisitos aprendidos foram:
 
